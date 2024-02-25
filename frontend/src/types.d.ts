@@ -1,0 +1,1 @@
+type TTypeCode = 'IATA'| 'ATLAS' | 'GPS' | 'PORT' | 'STATION' 
